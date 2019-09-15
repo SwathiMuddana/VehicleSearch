@@ -14,5 +14,4 @@ In case of error like "chromedriver is not executable" navigate to src/main/reso
 
 In case of running the project from windows OS, please download the respective chromedriver.exe and place it in "src/main/resources/driver" and change the chromedriver location in TestBase.java (line 38).
 
-
-
+Uploaded target folder as well which contains html report along with screenshots.
